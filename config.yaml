@@ -1,0 +1,9 @@
+---
+
+dbConfig:
+  dataDir: /home/spatel/ue_data/
+  storageFile: storage.DBF
+  ignoreVersionTest: true
+  enableDebug: false
+
+
